@@ -8,4 +8,4 @@ A powerful GPU is strongly recommanded if using ResNet34 or deeper.
 Pytorch >= 0.4.0  
 torchvision  
   
-# Codes are directly revised based on the source code of Pytorch.  
+Codes are directly revised based on the source code of Pytorch.  
